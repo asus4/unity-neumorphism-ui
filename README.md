@@ -7,7 +7,7 @@ Neumorphism UI is a experimental shader for Unity uGUI. Even though textures siz
 ## How to add your textures
 
 Use [msdfgen](https://github.com/Chlumsky/msdfgen) to generate texture from SVG.  
-A sample command included in  `Tools/convert.sh` with a msdfgen macOS binary (and you can find the binary for win on the msdfgen's GitHub repo).  
+A sample command is included in `Tools/convert.sh` with a msdfgen macOS binary (and you can find the binary for win on the msdfgen's GitHub repo).  
 
 ## References
 
