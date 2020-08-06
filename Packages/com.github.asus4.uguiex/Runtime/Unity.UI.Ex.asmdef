@@ -1,0 +1,15 @@
+{
+    "name": "Unity.UI.Ex",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "tvOS"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
