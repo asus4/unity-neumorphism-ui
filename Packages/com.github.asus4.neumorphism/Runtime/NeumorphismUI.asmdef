@@ -1,10 +1,8 @@
 {
-    "name": "Unity.UI.Ex",
+    "name": "NeumorphismUI",
     "references": [],
     "includePlatforms": [],
-    "excludePlatforms": [
-        "tvOS"
-    ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],

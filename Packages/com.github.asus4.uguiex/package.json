@@ -1,8 +1,0 @@
-{
-    "name": "com.github.asus4.uguiex",
-    "displayName": "Unity GUI Extensions",
-    "version": "0.1.0",
-    "unity": "2019.3",
-    "description": "Some useful libraries for uGUI",
-    "dependencies": { }
-}

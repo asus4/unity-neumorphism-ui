@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.github.asus4.uguiex": {
-      "version": "file:com.github.asus4.uguiex",
+    "com.github.asus4.neumorphism": {
+      "version": "file:com.github.asus4.neumorphism",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

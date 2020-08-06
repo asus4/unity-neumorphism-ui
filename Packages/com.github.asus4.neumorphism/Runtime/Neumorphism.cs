@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Unity.UI.Ex.Neumorphism
+namespace NeumorphismUI
 {
     [ExecuteAlways]
     [AddComponentMenu("UI/Effects/Neumorphism/Neumorphism", 100)]

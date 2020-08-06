@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Unity.UI.Ex.Neumorphism
+namespace NeumorphismUI
 {
     public class Gradient : IModifier
     {
