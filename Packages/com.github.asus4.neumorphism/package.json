@@ -4,5 +4,9 @@
   "version": "0.2.0",
   "unity": "2022.3",
   "description": "Neumorphism UI for uGUI",
-  "type": "library"
+  "type": "library",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.render-pipelines.universal": "14.0.8"
+  }
 }
