@@ -92,7 +92,7 @@ namespace NeumorphismUI
         {
             base.Awake();
 
-            // Need all shader channels to use Neumophism script
+            // Need all shader channels to use Neumorphism script
             var canvas = GetComponentInParent<Canvas>();
             if (canvas != null)
             {
