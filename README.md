@@ -1,4 +1,4 @@
-# Neumophism UI for Unity uGUI
+# Neumorphism UI for Unity uGUI
 
 Neumorphism UI is an experimental shader for Unity uGUI. Even though texture size is very small (e.g 64x64), it enables us to draw very smooth and scalable images using the MSDF(Multi-channel signed distance field) technique. This is used in [AnyFilter iOS App](https://apps.apple.com/app/id1522506966).
 
